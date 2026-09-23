@@ -10,7 +10,7 @@ A small but formidable list of marketing tools for software developers.
 - [Technical SEO Markeup Generator](https://technicalseo.com/tools/schema-markup-generator/): Perfect for adding structured data from Schema.org to your site.
 - [WebPageTest](https://www.webpagetest.org/): A free site performance measurement tool
 - [Google Search Console](https://search.google.com/search-console/about): Google's free tool for getting all the pages on your site indexed in Google search. Will also point out possible status errors, high performing search terms, and any performance issues.
-- [Bing Webmaster Tools](https://www.bing.com/webmasters/about): Bing's tool for getting your site indexed in Bing search.
+- [Bing Webmaster Tools](https://www.bing.com/webmasters/about): Bing's free tool for getting your site indexed in Google search.
 
 ### 💵Paid Tools
 - [Ahrefs](https://ahrefs.com/): All-in-one SEO tool, from keyword search to site audits.
@@ -56,6 +56,7 @@ A small but formidable list of marketing tools for software developers.
 - [MeetEdgar](https://meetedgar.com/pricing/): Free trial available.
 - [Zlappo](https://zlappo.com/): Free trial available.
 - [Hypefury](https://hypefury.com/): Free trial available.
+- [SocialRoster](https://socialroster.dev): Social media scheduler for TikTok, Instagram, YouTube, and Facebook with bulk upload and calendar scheduling.
 
 ## 🤖Automation Tools
 - [IFTTT](https://ifttt.com/)
@@ -64,7 +65,7 @@ A small but formidable list of marketing tools for software developers.
 
 ## 📖Developer Blogging Platforms
 - ["How Blog Post Syndication Works"](https://www.stephaniemorillo.co/post/how-blog-post-syndication-works): A post that explains blog syndication, aka "cross-posting".
-- ["What's the best blogging platform for developers?"](https://www.stephaniemorillo.co/post/what-s-the-best-blogging-platform-for-developers): A blog post to help you figure out what's important in selecting a blog platform.
+- ["What's the best blogging platform for developers?"](https://www.stephaniemorillo.co/post/what-s-the-best-blogging-platform-for-developers): A blog post that explains what's important in selecting a blog platform.
 - [DEV Community](https://dev.to/): An open source developer blogging and community platform. Allows you to categorize blog posts into tags, enables comments, and allows for blog syndication. 
 - [Hashnode](https://hashnode.com/): Developer blogging and community platfor. Allows you to categorize blog posts into tags, enables comments, and allows for blog syndication. Also lets developers map their own domain to their blog.
 
@@ -77,7 +78,7 @@ A small but formidable list of marketing tools for software developers.
 - [Unsplash](https://unsplash.com/): Free stock images.
 
 ## 🧑🏻‍💻Freelancer Marketplaces
-- [Fiverr](http://www.fiverr.com/s2/a6a80da60a): Find everyone from book designers to editors to graphic designers to ghostwriters on Fiverr. I've been working with Fiverr freelancers for sometime with great success. (_Note: Affiliate link_)
+- [Fiverr](http://www.fiverr.com/s2/a6a80da60a): Find everyone from book designers to editors to ghostwriters on Fiverr. I've been working with Fiverr freelancers for sometime with great success. (_Note: Affiliate link_)
 - [Upwork](https://www.upwork.com/)
 - [Wordy.com](https://www.wordy.com/): Proofreading and copyediting services.
 - [99designs](https://99designs.com/): Designer marketplace.
